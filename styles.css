@@ -24,3 +24,10 @@ footer {
     margin-top: 20px;
     color: #777;
 }
+
+.menu{
+    text-align: center;
+    background-color: #f4f4f4;
+    width: 100%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
