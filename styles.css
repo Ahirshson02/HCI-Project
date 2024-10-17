@@ -31,3 +31,46 @@ footer {
     width: 100%;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+.description{
+    text-align: center;
+}
+.table_persona_demographic{
+    width: 50%;
+    border: 3px solid;
+    align-items: center;
+}
+.table_peronsa_info{
+    width: 100%;
+    border: 3px solid;
+    align-items: center;
+}
+
+.centerImage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:2%;
+    border-style:groove;
+    width: 50%; /* or any other percentage */
+    }
+.line {
+        border-bottom: 3px solid #6B6565;
+        box-shadow: 3px 3px 5px 0 rgba(0, 0, 0, 0.3);
+        margin-top: 25px;
+        margin-bottom: 25px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 90%;
+    }
+.titleBox{
+    width: "100%";
+  height: 20px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 10px;
+  text-emphasis: bold;
+  background-color: bisque;
+  border-color: bisque;
+  border-radius: 10px;
+  font-size:x-large;
+}
