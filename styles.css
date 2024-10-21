@@ -35,9 +35,10 @@ footer {
     text-align: center;
 }
 .table_persona_demographic{
-    width: 50%;
-    border: 3px solid;
+    width: 30%;
     align-items: center;
+    border-bottom:#6B6565;
+    border: 1px solid;
 }
 .table_peronsa_info{
     width: 100%;
@@ -53,6 +54,14 @@ footer {
     border-style:groove;
     width: 50%; /* or any other percentage */
     }
+    .centerStoryboard {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        border-radius:2%;
+        border-style:groove;
+        width: 70%; /* or any other percentage */
+    }
 .line {
         border-bottom: 3px solid #6B6565;
         box-shadow: 3px 3px 5px 0 rgba(0, 0, 0, 0.3);
@@ -62,6 +71,10 @@ footer {
         margin-right: auto;
         width: 90%;
     }
+.logo{
+    float: left;
+    margin-right: 30px;
+}
 .titleBox{
     width: "100%";
   height: 20px;
@@ -69,8 +82,17 @@ footer {
   border: 5px solid gray;
   margin: 10px;
   text-emphasis: bold;
-  background-color: bisque;
-  border-color: bisque;
+  background-color: #333;
+  border-color: #333;
   border-radius: 10px;
   font-size:x-large;
+  color: white;
+}
+.headerColor
+{
+    
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+    background-color: bisque;
 }
